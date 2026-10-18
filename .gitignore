@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Firebase secrets
+firebase_service_account.json
+*service_account*.json
+
+# Environment variables / secrets
+.env
+.env.*
+**/.env
+**/.env.*
+
+# Node / React Native
+node_modules/
+.expo/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
